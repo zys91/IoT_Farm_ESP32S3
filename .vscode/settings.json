@@ -1,0 +1,35 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.adapterTargetName": "esp32s3",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.portWin": "COM17",
+  "idf.flashType": "UART",
+  "files.associations": {
+    ".config": "ini",
+    "*.inc": "c",
+    "uvc_stream.h": "c",
+    "esp_event.h": "c",
+    "string.h": "c",
+    "string": "c",
+    "array": "c",
+    "string_view": "c",
+    "base64.h": "c",
+    "esp_jpg_decode.h": "c",
+    "esp_camera.h": "c",
+    "*.ipp": "c",
+    "cerrno": "c",
+    "errno.h": "c",
+    "spiram.h": "c",
+    "esp_http_client.h": "c",
+    "nvs.h": "c",
+    "nvs_flash.h": "c",
+    "chrono": "c",
+    "iterator": "c",
+    "memory": "c",
+    "random": "c",
+    "xutility": "c",
+    "regex": "c"
+  }
+}
